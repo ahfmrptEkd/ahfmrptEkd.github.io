@@ -9,3 +9,4 @@ gem "jekyll-gist"
 
 gem 'jekyll-include-cache' # Ãß°¡
 gem 'wdm', '>= 0.1.0'
+gem "webrick", "~> 1.8"
