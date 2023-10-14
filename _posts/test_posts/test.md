@@ -2,11 +2,11 @@
 title: "Post: Test"
 last_modified_at: 2023-10-14T16:20:00-00:00
 categories:
-  - Post Formats
-tags:
-  - Post Formats
-  - readability
-  - standard
+  - tests 
+# tags:
+#   - Post Formats
+#   - readability
+#   - standard
 toc : true
 toc_label : "Test"
 toc_icon : False
