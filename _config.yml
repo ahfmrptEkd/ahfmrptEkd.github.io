@@ -23,7 +23,7 @@ name                     : "Samuel Park"
 description              : "personal archive"
 url                      : "https://ahfmrptekd.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/ahfmrptEkd/ahfmrptEkd.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "ahfmrptEkd/ahfmrptEkd.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "코딩으로 세상을 이롭게 하자" # overrides the website title displayed in the masthead, use " " for no title
@@ -112,13 +112,13 @@ author:
   email            :
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fab fa-fw fa-envelope-square"
       url: mailto:tkandpf9914@gmail.com
     - label: "Website"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://ahfmrptekd.github.io/"
     - label: "Github"
-      icon: "fas fa-fw fa-github"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/ahfmrptEkd"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
@@ -284,6 +284,7 @@ defaults:
       comments:  true # 블로그 댓글 기능 true
       share: true
       related: true
+      show_date: true
 
   # _pages
   - scope:
