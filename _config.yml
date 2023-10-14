@@ -43,7 +43,7 @@ comments:
   utterances:
     theme                : "github-light" # "github-light" (default), "github-dark"
     issue_term           : "pathname" # "pathname" (default)
-    label                : 
+    label                : "Comment"
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
     category_name        : # Full text name of the category
@@ -282,10 +282,6 @@ defaults:
       author_profile: true
       read_time: true
       comments:  true # 블로그 댓글 기능 true
-        provider: "utterances"
-        utterances:
-          theme: "github-light" #(default), "github-dark"
-          issue_term: "pathname" #(default)
       share: true
       related: true
       show_date: true
