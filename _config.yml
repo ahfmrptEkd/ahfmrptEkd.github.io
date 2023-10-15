@@ -291,6 +291,7 @@ defaults:
       toc_sticky: true
       toc_label: Index
       toc_icon: "fa-solid fa-sitemap"
+      use_math: true
       sidebar:
         nav: "docs"
 
