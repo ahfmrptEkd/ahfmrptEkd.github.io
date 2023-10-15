@@ -106,13 +106,13 @@ analytics:
 # Site Author
 author:
   name             : "Samuel Park"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"  # profile picture
+  avatar           : "/assets/logo.ico/android-chrome-512x512.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"  # profile picture
   bio              : "I am a **AWESOME** person."
   location         : "Republic of Korea"
   email            :
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fab fa-fw fa fa-envelope"
       url: mailto:tkandpf9914@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -134,7 +134,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fab fa-fw fa fa-envelope"
       url: mailto:tkandpf9914@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

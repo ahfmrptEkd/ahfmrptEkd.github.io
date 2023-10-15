@@ -60,7 +60,7 @@ success
 {% include video id="rDFUl2mHIW4?si=yRYyeQtn-1jb5MjZ" provider="youtube" %}
 
 
-<!-- {% include video id="{유튜브 id를 넣어주면 된다.}" provider="youtube" %} -->
+<!--{% include video id="{유튜브 id를 넣어주면 된다.}" provider="youtube" %}-->
 
 # 와우
 wow
