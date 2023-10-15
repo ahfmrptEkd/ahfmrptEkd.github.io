@@ -74,9 +74,9 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : # "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
 bing_site_verification   :
-naver_site_verification  :
+naver_site_verification  : "a6c9636aa3538a915e635ac7c8eb5d109309202f" 
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -285,6 +285,8 @@ defaults:
       share: true
       related: true
       show_date: true
+      sidebar:
+        nav: "docs"
 
   # _pages
   - scope:
