@@ -35,7 +35,5 @@ counts:
   - title: "Category"
     use: true
   - title: "Tag"
-    children:
-      - title: "Category"
     use: true
 
