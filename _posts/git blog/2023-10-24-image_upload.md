@@ -1,5 +1,5 @@
 ---
-title:  Image uploading w/ Typora
+title:  "2. Image uploading w/ Typora"
 author_profile: false # 내 프로필을 보여줄지 말지.
 categories: 카테고리 # 복수로 가능하다 하지만 1개로 설정
     - Git Blog
@@ -9,7 +9,7 @@ sidebar:
     nav: "counts"
 ---
 
-![Tortoise_Fred](../images/2023-10-24-image upload/Tortoise_Fred.jpg)
+![Tortoise_Fred](..\images\2023-10-24-image upload\Tortoise_Fred.jpg)
 
 # 준비물
 
@@ -33,7 +33,7 @@ Typora는 이미지 삽입및 글 편집을 편하게 하기에 쓰는 편입니
 
 2.  Typora를 Git Clone한 폴더를 열어 폴더를 봅니다.
 
-   <img src="../images/2023-10-24-image upload/image-20231024212115354.png" alt="image-20231024212115354" style="zoom: 80%;" />
+   <img src="..\images/2023-10-24-image upload/image-20231024212115354.png" alt="image-20231024212115354" style="zoom: 80%;" />
 
 
 
