@@ -1,5 +1,5 @@
 ---
-title:  "[Git Hub] Local server"
+title:  "[Git Hub] 로컬 서버"
 author_profile: false # 내 프로필을 보여줄지 말지.
 categories:  # 복수로 가능하다 하지만 1개로 설정
   - Git Blog
@@ -10,6 +10,7 @@ sidebar:
     nav: "counts"
 ---
 
+# [Git Hub] Local server 로컬 서버
 # Local Server에 적용하기
 
   
