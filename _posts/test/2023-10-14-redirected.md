@@ -1,6 +1,7 @@
 ---
 title:  "redirected_from plugins"
 search: false
+published: false     # 숨길지 말지.
 categories: 
   - test_2
   - Jekyll_2
