@@ -1,5 +1,5 @@
 ---
-title: "Git Hub Blog Start-up"
+title: "[Git Hub] Git Hub Blog Start-up"
 categories: # 복수로 가능하다 하지만 1개로 설정
     - Git Blog
 tags:        # 태그는 복수로 설정 해도 괜찮다

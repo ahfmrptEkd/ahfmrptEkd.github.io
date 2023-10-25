@@ -1,5 +1,5 @@
 ---
-title: "Image uploading w/ Typora"
+title: "[Git Hub] Image uploading w/ Typora"
 author_profile: false # 내 프로필을 보여줄지 말지.
 categories: # 복수로 가능하다 하지만 1개로 설정
     - Git Blog
