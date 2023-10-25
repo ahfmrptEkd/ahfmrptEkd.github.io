@@ -1,13 +1,15 @@
 ---
 title: "2. Image uploading w/ Typora"
-author_profile: true # 내 프로필을 보여줄지 말지.
+author_profile: false # 내 프로필을 보여줄지 말지.
 categories: # 복수로 가능하다 하지만 1개로 설정
     - Git Blog
 tags:        # 태그는 복수로 설정 해도 괜찮다
     - Image
 sidebar:   
     nav: "counts"
-typora-root-url: ../
+typora-root-url: ../..
+redirect_from:
+  - /2023-10-24-image_upload/
 ---
 
 
@@ -25,6 +27,11 @@ Typora는 마크다운 기반의 글쓰기 보조 서비스입니다.
 Typora는 이미지 삽입및 글 편집을 편하게 하기에 쓰는 편입니다.
 
 ![Tortoise_Fred](/images/2023-10-24-image-upload/Tortoise_Fred.jpg)
+<br/>
+
+
+
+
 # 쓰는 법
 
 
@@ -49,19 +56,24 @@ Typora는 이미지 삽입및 글 편집을 편하게 하기에 쓰는 편입니
 
      - images 는 꼭 images가 아니라 원하는 이름으로 폴더를 만들어 주면 된다.
 
-   
-   
+<br/>
+<br/>
+
+
+
 ## 오류 
+
    
-   
-   
+
    -  하지만 카테고리를 우리가 추가하면서 이미지가 깨지게 되는 경우가 있다.
-   
-     - 무언가 경로가 꼬이면서 상대경로 만으로는 표시가 안되는 것이다.
+
+      - 무언가 경로가 꼬이면서 상대경로 만으로는 이미지 표시가 안되는 것이다.
+
+<br/>
 
    ![image-20231025105014289](/images/2023-10-24-image-upload/image-20231025105014289.png)
 
-
+<br/>
 
    - 그렇다면? 어떻게 해결하면 되는 것인가?
    
@@ -69,9 +81,14 @@ Typora는 이미지 삽입및 글 편집을 편하게 하기에 쓰는 편입니
 
 ![image-20231025104640643](/images/2023-10-24-image-upload/image-20231025104640643.png)
 
+<br/>
 
+​	2. 우리 페이지 설정 부분에서 "typora-root-url: .." 을 추가해 준다.
 
-​	2. 우리 페이지 설정 부분에서 "typora-root-url: ../" 을 추가해 준다.
+   ![image-20231025113243485](/images/2023-10-24-image-upload/image-20231025113243485.png)
 
-   ![image-20231025105529517](/images/2023-10-24-image-upload/image-20231025105529517.png)
+<br/>
 
+	3. 이제 잘 적용된 페이지를 즐기면 된다~  TADA!!
+
+  

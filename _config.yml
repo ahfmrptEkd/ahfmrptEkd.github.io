@@ -281,7 +281,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments:  true # 블로그 댓글 기능 true
       share: true
