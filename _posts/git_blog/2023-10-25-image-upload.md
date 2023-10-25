@@ -5,6 +5,7 @@ categories: # 복수로 가능하다 하지만 1개로 설정
     - Git Blog
 tags:        # 태그는 복수로 설정 해도 괜찮다
     - Image
+last_modified_at: 2023-10-25T00:00:00-00:10
 sidebar:   
     nav: "counts"
 typora-root-url: ../..
