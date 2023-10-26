@@ -8,8 +8,6 @@ sidebar:
     nav: "counts"
 last_modified_at: 2023-10-25T00:00:00-00:30
 typora-root-url: ../..
-sidebar:
-    nav: "counts"
 ---
 
 <br>
