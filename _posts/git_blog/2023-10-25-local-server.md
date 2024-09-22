@@ -66,7 +66,7 @@ sidebar:
 
        -> ```bundle add webrick```을 명령어 에 입력 해준다.
 
-       <img src="/images/2023-10-25-local-server/image-20231025174127355.png" alt="image-20231025174127355" style="zoom:150%;" />
+      ![image-20231025174005058](/images/2023-10-25-local-server/image-20231025174127355.png)
 
      - 이제 그럼  다시 서버 구동 명령어를 입력해준다. 그럼 정상으로 작동할 것이다.
 
